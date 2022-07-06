@@ -1,7 +1,7 @@
 # Calculadora de figuras Geometricas
 
 ## Link para conectarse
-#https://angel-js.github.io/GeometryCalculator/figuras.html
+#https://angel-js.github.io/GeometryCalculator/figuras.html 
 ..
 
 # En este ejercicio hicimos una conexion de HTML y JS
