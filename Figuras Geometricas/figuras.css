@@ -1,0 +1,35 @@
+*{
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    background: rgb(195, 100, 100,0.4);
+    border-radius: 3px;
+    box-shadow: 10px 10px rgb(0, 0, 0,0.6);
+}
+section{
+    margin-top: 20px;
+}
+button{
+    border-radius: 2px;
+}
+ul{
+    list-style: none;
+}
+
+div #btn-triangulo{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+div #btn-cuadrado{
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
